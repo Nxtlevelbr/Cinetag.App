@@ -2,7 +2,7 @@
 
 ## 📜 Descrição
 
-**Cinetag** é um aplicativo moderno e dinâmico de vídeos, projetado para fornecer uma experiência de usuário simples e agradável. O projeto foi desenvolvido por **Marcel Prado Soddano**, formado em Análise e Desenvolvimento de Sistemas Full Stack pela FIAP. A aplicação permite aos usuários explorar, assistir e organizar vídeos de maneira eficiente, além de gerenciar vídeos favoritos e assistir conteúdo de maneira intuitiva.
+**Cinetag** projeto react para treinar habilidades no front end projetado para fornecer uma experiência de usuário simples e agradável.  desenvolvido por **Marcel Prado Soddano**, formado em Análise e Desenvolvimento de Sistemas Full Stack pela FIAP.
 
 Com a utilização de **React.js**, **React Router** e **Context API**, a aplicação oferece uma navegação fluída e funcionalidades como o gerenciamento de vídeos favoritos, além de um design responsivo para diferentes dispositivos.
 
